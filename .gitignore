@@ -1,0 +1,4 @@
+.idea
+test_opencv.iml
+test*.jpg
+haarcascade_*.xml
